@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/githubmofo/Leetcode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/githubmofo/Leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
