@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/githubmofo/Leetcode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/githubmofo/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/githubmofo/Leetcode/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/githubmofo/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
