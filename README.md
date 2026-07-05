@@ -64,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/githubmofo/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/githubmofo/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/githubmofo/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [1407-top-travellers](https://github.com/githubmofo/Leetcode/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
