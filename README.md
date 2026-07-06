@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/githubmofo/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/githubmofo/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/githubmofo/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/githubmofo/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/githubmofo/Leetcode/tree/master/0069-sqrtx) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/githubmofo/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/githubmofo/Leetcode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/githubmofo/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/githubmofo/Leetcode/tree/master/0231-power-of-two) |
