@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/githubmofo/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githubmofo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/githubmofo/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/githubmofo/Leetcode/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/githubmofo/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/githubmofo/Leetcode/tree/master/0709-to-lower-case) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/githubmofo/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/githubmofo/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1407-top-travellers](https://github.com/githubmofo/Leetcode/tree/master/1407-top-travellers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/githubmofo/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
