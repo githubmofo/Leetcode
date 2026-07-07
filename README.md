@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/githubmofo/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/githubmofo/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/githubmofo/Leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/githubmofo/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/githubmofo/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/githubmofo/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/githubmofo/Leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/githubmofo/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/githubmofo/Leetcode/tree/master/0709-to-lower-case) |
 ## Database
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/githubmofo/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/githubmofo/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
