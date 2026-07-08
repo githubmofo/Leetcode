@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/githubmofo/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/githubmofo/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/githubmofo/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/githubmofo/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/githubmofo/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
