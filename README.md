@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/githubmofo/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/githubmofo/Leetcode/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/githubmofo/Leetcode/tree/master/1023-camelcase-matching) |
+| [2390-removing-stars-from-a-string](https://github.com/githubmofo/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Database
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/githubmofo/Leetcode/tree/master/0415-add-strings) |
+| [2390-removing-stars-from-a-string](https://github.com/githubmofo/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/githubmofo/Leetcode/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/githubmofo/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
