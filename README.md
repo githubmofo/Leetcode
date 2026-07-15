@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/githubmofo/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/githubmofo/Leetcode/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/githubmofo/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/githubmofo/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/githubmofo/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
