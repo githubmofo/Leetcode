@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/githubmofo/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/githubmofo/Leetcode/tree/master/0704-binary-search) |
 | [1023-camelcase-matching](https://github.com/githubmofo/Leetcode/tree/master/1023-camelcase-matching) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/githubmofo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
