@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/githubmofo/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/githubmofo/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/githubmofo/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/githubmofo/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/githubmofo/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/githubmofo/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/githubmofo/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githubmofo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/githubmofo/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/githubmofo/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/githubmofo/Leetcode/tree/master/0704-binary-search) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/githubmofo/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/githubmofo/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githubmofo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/githubmofo/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/githubmofo/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/githubmofo/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
