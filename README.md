@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/githubmofo/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/githubmofo/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/githubmofo/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/githubmofo/Leetcode/tree/master/0415-add-strings) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/githubmofo/Leetcode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/githubmofo/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/githubmofo/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/githubmofo/Leetcode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/githubmofo/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/githubmofo/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githubmofo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/githubmofo/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/githubmofo/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/githubmofo/Leetcode/tree/master/0704-binary-search) |
@@ -67,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/githubmofo/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/githubmofo/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githubmofo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/githubmofo/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/githubmofo/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -137,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/githubmofo/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
