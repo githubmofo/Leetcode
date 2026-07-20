@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/githubmofo/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/githubmofo/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githubmofo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/githubmofo/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/githubmofo/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/githubmofo/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/githubmofo/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -149,5 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/githubmofo/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/githubmofo/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/githubmofo/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/githubmofo/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
