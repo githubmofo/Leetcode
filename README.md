@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/githubmofo/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/githubmofo/Leetcode/tree/master/0509-fibonacci-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/githubmofo/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/githubmofo/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/githubmofo/Leetcode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/githubmofo/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/githubmofo/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/githubmofo/Leetcode/tree/master/1023-camelcase-matching) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/githubmofo/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/githubmofo/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/githubmofo/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/githubmofo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/githubmofo/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
