@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/githubmofo/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/githubmofo/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/githubmofo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/githubmofo/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/githubmofo/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/githubmofo/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/githubmofo/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/githubmofo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/githubmofo/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/githubmofo/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/githubmofo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githubmofo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/githubmofo/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/githubmofo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/githubmofo/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/githubmofo/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1023-camelcase-matching](https://github.com/githubmofo/Leetcode/tree/master/1023-camelcase-matching) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/githubmofo/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/githubmofo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/githubmofo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/githubmofo/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
