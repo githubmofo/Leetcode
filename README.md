@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/githubmofo/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/githubmofo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/githubmofo/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/githubmofo/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/githubmofo/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/githubmofo/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/githubmofo/Leetcode/tree/master/0645-set-mismatch) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/githubmofo/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/githubmofo/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/githubmofo/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0493-reverse-pairs](https://github.com/githubmofo/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/githubmofo/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/githubmofo/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/githubmofo/Leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/githubmofo/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/githubmofo/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/githubmofo/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/githubmofo/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -253,4 +257,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/githubmofo/Leetcode/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/githubmofo/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/githubmofo/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/githubmofo/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
