@@ -1,13 +1,18 @@
 class Solution(object):
     def searchInsert(self, nums, target):
-        for i in range(len(nums)):
-            if nums[i] == target:
-                return i
+        n = len(nums)
+        low, high = 0, n - 1
+        ans = n  
 
-        for i in range(len(nums)):
-            if target < nums[i]:
-                return i
+        while low <= high:
+            mid = (low + high) // 2
 
-        return len(nums)
+            if nums[mid] >= target:
+                ans = mid  
+                high = mid - 1
+            else:
+                low = mid + 1  
+
+        return ans
        
         
